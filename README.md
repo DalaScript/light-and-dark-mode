@@ -15,6 +15,7 @@
 - [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
   - [🎓 What I learned](#-what-i-learned)
+  - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
@@ -26,7 +27,7 @@
 
 ### 📸 Screenshot
 
-![](./assets/screenshot.jpg)
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -40,16 +41,16 @@
  - ✅ Images switch dynamically to match the theme
  - ✅ Theme preference saved in localStorage
  - ✅ Stylish animated toggle switch
- - ✅ Fully responsive layout
+
+---
 
 ## 🧠 My Process
 
 ### 🛠️ Built with
 
  - HTML5
- - CSS3 (Custom properties, media queries)
- - JavaScript (ES6+)
- - Font Awesome Icons
+ - CSS3
+ - Vanilla JavaScript
  - LocalStorage
 
 ### 🎓 What I Learned
@@ -58,6 +59,18 @@
  - How to store user preferences with `localStorage`
  - Dynamically changing images and styles based on theme
  - Working with CSS variables for easy theme management
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
+
+### 🔙 Previous Project
+
+ - Joke Teller → [View Repository](https://github.com/DalaScript/joke-teller)
 
 ### 🔜 Next Project
 
