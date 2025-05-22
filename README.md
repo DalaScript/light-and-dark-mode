@@ -70,11 +70,11 @@
 
 ### 🔙 Previous Project
 
- - Joke Teller → [View Repository](https://github.com/DalaScript/joke-teller)
+ - Joke Teller | *[Project [4]/20]* → [View Repository](https://github.com/DalaScript/joke-teller)
 
 ### 🔜 Next Project
 
- - Animated Template → [View Repository](https://github.com/DalaScript/animated-template)
+ - Animated Template | *[Project [6]/20]* → [View Repository](https://github.com/DalaScript/animated-template)
 
 ---
 
