@@ -17,6 +17,7 @@
   - [🎓 What I learned](#-what-i-learned)
   - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
+  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -27,12 +28,12 @@
 
 ### 📸 Screenshot
 
-![screenshot of the project's webpage](./assets/screenshot.jpg)
+![Live Preview Screenshot](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
- - [🔴 Live Demo](https://dalascript.github.io/light-dark-mode/)
- - [🗂️ GitHub Repository](https://github.com/DalaScript/light-dark-mode)
+ - [🔴 Live Demo](https://dalascript.github.io/light-and-dark-mode/)
+ - [🗂️ GitHub Repository](https://github.com/DalaScript/light-and-dark-mode)
 
 ### 📌 Features
 
@@ -70,11 +71,24 @@
 
 ### 🔙 Previous Project
 
- - Joke Teller | *[Project [4]/20]* → [View Repository](https://github.com/DalaScript/joke-teller)
+ - Joke Teller | *[Project 4/20]* → [View Repository](https://github.com/DalaScript/joke-teller)
 
 ### 🔜 Next Project
 
- - Animated Template | *[Project [6]/20]* → [View Repository](https://github.com/DalaScript/animated-template)
+ - Animated Template | *[Project 6/20]* → [View Repository](https://github.com/DalaScript/animated-template)
+
+### 🗃️ Useful resources
+
+ - [Google Fonts](https://fonts.google.com/) – Huge library of customizable web-safe fonts.
+ - [FontAwesome Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free) – Free and premium icon library for modern UIs.
+ - [Hero Patterns](https://heropatterns.com/) – A collection of free, repeatable SVG background patterns.
+ - [Undraw Illustrations](https://undraw.co/illustrations) – Open-source vector illustrations that adapt to your theme.
+ - [W3Schools - Switch](https://www.w3schools.com/howto/howto_css_switch.asp) – Tutorial to build an animated toggle switch.
+ - [W3Schools - Change Event](https://www.w3schools.com/jsref/event_onchange.asp) – Learn how to handle input and switch toggles in JS.
+ - [MDN - CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascading_variables/Using_CSS_custom_properties) – How to define and use custom properties in CSS.
+ - [MDN - Document Element](https://developer.mozilla.org/en-US/docs/Web/API/Document/documentElement) – Reference to access and modify the root element of the document.
+ - [Dark Mode Colors How-to Article](https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637) – Best practices for designing dark themes with readability in mind.
+ 
 
 ---
 
