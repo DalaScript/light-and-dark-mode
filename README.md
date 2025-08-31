@@ -53,14 +53,6 @@
 
 ## 🧠 My Process
 
-### 🔙 Previous Project
-
-- Joke Teller | *Project 4/20* → [View Repository](https://github.com/DalaScript/joke-teller)
-
-### 🔜 Next Project
-
-- Animated Template | *Project 6/20* → [View Repository](https://github.com/DalaScript/animated-template)
-
 ### 🗃️ Useful resources
 
 - [Google Fonts](https://fonts.google.com/)
@@ -72,6 +64,14 @@
 - [MDN - CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascading_variables/Using_CSS_custom_properties)
 - [MDN - Document Element](https://developer.mozilla.org/en-US/docs/Web/API/Document/documentElement)
 - [Dark Mode Colors How-to Article](https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637)
+
+### 🔙 Previous Project
+
+- Joke Teller | *Project 4/20* → [View Repository](https://github.com/DalaScript/joke-teller)
+
+### 🔜 Next Project
+
+- Animated Template | *Project 6/20* → [View Repository](https://github.com/DalaScript/animated-template)
 
 ---
 
